@@ -66,6 +66,7 @@ public class RangeList<T> {
         if(indexArr.length == 2) {
             for (int i=0; i<list.size(); i++) {
                 list.get(i);
+
             }
         }
         //添加区间为一侧无限制区间
